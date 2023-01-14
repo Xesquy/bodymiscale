@@ -1,26 +1,26 @@
 {
   "config": {
     "error": {
-      "already_configured": "Already configured",
-      "height_limit": "Height is too high (limit: 220 cm)",
-      "invalid_date": "Invalid date"
+      "already_configured": "Ya configurado",
+      "height_limit": "La altura es demasiado alta (limite: 220 cm)",
+      "invalid_date": "Fecha invalida"
     },
     "step": {
       "options": {
         "data": {
-          "height": "Height",
-          "impedance": "Impedance sensor",
-          "weight": "Weight sensor"
+          "height": "Peso",
+          "impedance": "Sensor de Impedancia",
+          "weight": "Sensor de peso"
         },
         "data_description": {
-          "impedance": "If your scale does not provide the impedance, leave this field empty."
+          "impedance": "Si su báscula no proporciona la impedancia, deje este campo vacío."
         }
       },
       "user": {
         "data": {
-          "birthday": "Birthday",
-          "gender": "Gender",
-          "name": "Name"
+          "birthday": "Cumpleaños",
+          "gender": "Genero",
+          "name": "Nombre"
         }
       }
     }
@@ -29,12 +29,12 @@
     "step": {
       "init": {
         "data": {
-          "height": "Height",
-          "impedance": "Impedance sensor",
-          "weight": "Weight sensor"
+          "height": "Peso",
+          "impedance": "Sensor de impedancia",
+          "weight": "Sensor de peso"
         },
         "data_description": {
-          "impedance": "If your scale does not provide the impedance, leave this field empty."
+          "impedance": "Si su báscula no proporciona la impedancia, deje este campo vacío."
         }
       }
     }
@@ -42,7 +42,7 @@
   "state": {
     "_": {
       "ok": "OK",
-      "problem": "Problem"
+      "problem": "Problema"
     }
   }
 }
